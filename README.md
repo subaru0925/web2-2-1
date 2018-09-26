@@ -1,1 +1,47 @@
-# web2-2-1
+<!DOCTYPE html >
+<html>
+  <head>
+      <meta charset="utf-8"/>
+      <title>おいしいカレーの作り方</title>
+    </head>
+    <body>
+      <h1>はじめに</h1>
+      <p>カレー作りを初めて1日になりました。このノウハウを皆さんに紹介したいと思います。<br>
+        <strong>さあ、始めましょう</strong></p>
+        <h1>材料</h1>
+      <p>次の材料を用意ます</p>
+      <ul>
+        <li>牛ばら肉</li>
+        <li>ニンジン</li>
+        <li>玉ねぎ</li>
+        <li>ジャガイモ</li>
+        <li>市販のカレールー</li>
+     </ul>
+      <h1>材料（分量付き）</h1>
+      <p>次の材料を用意しします</p>
+      <table>
+         <tr><th>材料名</th><th>分量</th><th>単位</th></tr>
+         <tr><td>牛ばら肉</td><td>500</td><td>g</td></tr>
+         <tr><td>ニンジン</td><td>1</td><td>本</td></tr>
+         <tr><td>玉ねぎ</td><td>3</td><td>個</td></tr>
+         <tr><td>ジャガイモ</td><td>3</td><td>個</td></tr>
+         <tr><td>市販のカレールー</td><td>100</td><td>g</td></tr>
+  <h1>作り方</h1>
+  <ol>
+    <li>玉ねぎを飴色になるまで炒める</li>
+    <li>牛肉を適当に炒める</li>
+    <li>適当に切ったニンジン、ジャガイモを炒める</li>
+    <li>煮立たせる</li>
+    <li>一晩おく</li>
+</ol>
+      
+      <h1>ポイント</h1>
+      <ul>
+          <li>すぐに食べてもおいしいよ</li>
+          <li>他のお肉でもOK
+          <ul>
+              <li>豚肉</li>
+              <li>鶏肉</li>
+          </ul>
+          </li>
+      </ul>
